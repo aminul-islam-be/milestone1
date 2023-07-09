@@ -47,3 +47,23 @@ section h3{
     align-items: center;
     border-radius: 15px;
 }
+.last-step{
+    background: #151414;
+    color: aliceblue;
+}
+.footerFlex{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    margin-bottom: 80px;
+}
+.subBlock{
+    display: block;
+}
+div>ul>a>li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    gap: 12px;
+}
