@@ -1,6 +1,6 @@
 .h-bg{
     background-image: url("new-year-new-me/images/banner/banner1.png");
-    height: 820px;   
+    height: 800px;   
     display: flex;
     align-items: center;
     text-align: right;
@@ -20,4 +20,10 @@ background: #F15B22;
 border: none;
 height: 64px;
 width: 160px;
+}
+.area1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
 }
